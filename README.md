@@ -5,7 +5,7 @@
 
 
 - [Features](#features)
-- [Documentation](#documentation)
+- [Examples](#examples)
 - [Support](#support)
 
 ## Features
@@ -13,8 +13,15 @@
 - Flashcard application w/ up to 20 available slots for flashcards
 - Made using Tkinter & Python
 
-## Documentation 
+## Examples
 
+**Landing Page**
+
+![](images/ss1.png)
+
+**Flashcards in action**
+
+![](images/ss2.png)
 ## Support
 
 Reach out to me at one of the following places!
